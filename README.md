@@ -5,7 +5,7 @@
   - ☕️ GitHub not your [cuppa tea](https://www.youtube.com/watch?v=rt1nlqJP2Ls)? Just let me know.
 - 📫 reach me through [Word of Mouth](https://www.youtube.com/watch?v=E_IQeoy94OI)
 - 📃 List of Lists 
-  - [Hackathon Work 🐱‍💻](https://github.com/stars/chramostatm/lists/hackathon-work)
+  - [Hackathons 🐱‍💻](https://github.com/stars/chramostatm/lists/hackathons)
   - [Personally Active Work 🏋️](https://github.com/stars/chramostatm/lists/personally-active-work)
   - [Good DevOps tools 😇](https://github.com/stars/chramostatm/lists/good-devops-tools)
   - [Interesting 🤔](https://github.com/stars/chramostatm/lists/interesting)
