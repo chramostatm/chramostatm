@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chramostatm
-- 👀 I’m interested in: All things related to Computer Science, Cyber Security, and Math
+- 👀 I’m interested in: All things related to Computer Science, Cyber Security, and Mathematics
 - 🌱 I’m currently learning: Network Security and Applied Cryptography
 - 💞️ I’m willing to collaborate on: Anything! However, I have a soft spot for mathematical projects and open-source Cyber Security projects.
   - ☕️ GitHub not your [cuppa tea](https://www.youtube.com/watch?v=rt1nlqJP2Ls)? Just let me know.
