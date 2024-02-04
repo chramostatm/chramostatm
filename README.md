@@ -9,6 +9,7 @@
   - [Personally Active Work 🏋️](https://github.com/stars/chramostatm/lists/personally-active-work)
   - [Good DevOps tools 😇](https://github.com/stars/chramostatm/lists/good-devops-tools)
   - [Interesting 🤔](https://github.com/stars/chramostatm/lists/interesting)
+  - [Books 📚](./RecommendedBooks.md)
 #### [Recursion](https://github.com/chramostatm)
 
 
