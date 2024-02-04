@@ -1,4 +1,4 @@
-[QR Code Shenanigans](https://medium.com/@sharma.naman2022/creating-and-reading-qr-codes-from-the-terminal-in-linux-a4d9fae6b387)
+[QR Code Shenanigans](https://www.howtogeek.com/devops/how-to-create-qr-codes-from-the-linux-command-line/)
 
 [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
