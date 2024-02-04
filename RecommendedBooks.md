@@ -4,6 +4,7 @@
 Most of these Recommendations should be available via:
 - [Archive.org](https://archive.org/)
 - [Springer Publishing](https://www.springer.com/series/3423)
+- [Open Library](https://open.umn.edu/opentextbooks/subjects)
 - Your Local Library
 - Other Places
 ## Teamwork
