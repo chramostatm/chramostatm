@@ -1,0 +1,1 @@
+[QR Code Shenanigans](https://medium.com/@sharma.naman2022/creating-and-reading-qr-codes-from-the-terminal-in-linux-a4d9fae6b387)
