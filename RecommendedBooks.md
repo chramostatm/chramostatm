@@ -1,11 +1,11 @@
 # Book Recommendations
 💖 Reading? Here is a partial list of curated book recommendations. Feel free to fork this list and add on.
 
-Most of these Recommendations should be available via:
+Most of these Recommendations should be available or linked via:
 - [Archive.org](https://archive.org/)
 - [Springer Publishing](https://www.springer.com/series/3423)
 - [Open Library](https://open.umn.edu/opentextbooks/subjects)
-- Your Local Library
+- Local Library
 - Other Places
 ## Teamwork
 [17 Indisputable Laws of Teamwork](https://archive.org/details/17indisputablela00maxw)
