@@ -7,7 +7,7 @@ __*Disclaimer: This is curated solely on their technical/craft perspectives. My 
 ## Cyber
 ### Cybersecurity
 - LaurieWired
-    - Description: Security Researcher focused cross-platform and mobile SRE
+    - Description: Security Researcher focused on cross-platform and mobile SRE
 - MentalOutlaw
     - Description: Discusser of FOSS software and cybersecurity related current events.
 - LiveOverflow
@@ -19,4 +19,6 @@ __*Disclaimer: This is curated solely on their technical/craft perspectives. My 
 ### Interior Design
 - Caroline Winkler
     - Description: interior designer (and more) giving practical thoughts on interior design (and more).
+- just lanchen
+    - budget friendly Interior Design tips and informative videos about design styles.
 #### [Back to Profile](https://github.com/chramostatm)
