@@ -1,6 +1,6 @@
 Here is a partial list of curated content creators/content.
 
-__*Disclaimer: This is curated solely on their technical/practical perspectives. My personal and professional thoughts are my own and are not reflected/indicated by this list.*__
+__*Disclaimer: This is curated solely on their technical/craft perspectives. My personal and professional thoughts are my own and are not reflected/indicated by this list.*__
 ## Math
 - 3blue1brown
     - Description: Explainer of Math and Science topics using great visuals.
