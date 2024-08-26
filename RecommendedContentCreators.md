@@ -1,4 +1,4 @@
-Here is a partial list of curated content creators/content.
+Here is a partial list of curated content creators.
 
 __*Disclaimer: This is curated solely on their technical/craft perspectives. My personal and professional thoughts are my own and are not reflected/indicated by this list.*__
 ## Math
@@ -6,11 +6,11 @@ __*Disclaimer: This is curated solely on their technical/craft perspectives. My 
     - Description: Explainer of Math and Science topics using great visuals.
 ## Cyber
 ### Cybersecurity
-- LaurieWired
+- [LaurieWired](https://github.com/LaurieWired)
     - Description: Security Researcher focused on cross-platform and mobile SRE
-- MentalOutlaw
+- [MentalOutlaw](https://github.com/MentalOutlaw)
     - Description: Discusser of FOSS software and cybersecurity related current events.
-- LiveOverflow
+- [LiveOverflow](https://github.com/LiveOverflow)
     - Description: German Security Researcher focused on Web Sec and more.
 ## Fun
 ### Cooking
