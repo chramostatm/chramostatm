@@ -11,6 +11,11 @@
   - [Interesting 🤔](https://github.com/stars/chramostatm/lists/interesting)
   - [Books 📚](./RecommendedBooks.md)
   - [Content Creators📺](./RecommendedContentCreators.md)
+
+
+(Optional)
+Consider Sponsoring my [GitHub](https://github.com/sponsors/chramostatm) or donate on [KoFi](https://ko-fi.com/tchrom)
+
 #### [Inception](https://github.com/chramostatm)
 
 
