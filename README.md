@@ -7,6 +7,8 @@
 - 📃 List of Lists
   - [Hackathons 🐱‍👤](https://github.com/stars/chramostatm/lists/hackathons)
   - [Personally Active Work 🏋️](https://github.com/stars/chramostatm/lists/personally-active-work)
+  - [Schoolwork 🤓](https://github.com/stars/chramostatm/lists/schoolwork)
+  - [Teaching 👨‍🏫](https://github.com/stars/chramostatm/lists/teaching)
   - [Good DevOps tools 😇](https://github.com/stars/chramostatm/lists/good-devops-tools)
   - [Interesting 🤔](https://github.com/stars/chramostatm/lists/interesting)
   - [Books 📚](./RecommendedBooks.md)
