@@ -1,6 +1,6 @@
 ### Introduction
-- 👋 Hi, I’m @chramostatm
-- 👀 I’m interested in: Human developement, mathematics, and open-source Systems!
+- 👋 Hi, I’m @chramostatm, Founder and Innovation Architect at [The DeadLock Consortium](https://github.com/TheDeadLockConsortium)!
+- 👀 I’m interested in: Human Developement, Mathematics, and open-source Systems!
 - 🌱 I’m currently learning: Secure Web Dev
 - 💞️ I’m willing to collaborate on: Anything and everything!
   - ☕️ GitHub not your [cuppa tea](https://www.youtube.com/watch?v=rt1nlqJP2Ls)? Just let me know.
