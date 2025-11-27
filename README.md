@@ -6,20 +6,22 @@
   - ☕️ GitHub not your [cuppa tea](https://www.youtube.com/watch?v=rt1nlqJP2Ls)? Just let me know.
 - 📫 reach me through [Word of Mouth](https://www.youtube.com/watch?v=E_IQeoy94OI)
 ### 📃 List of Lists
+
+- Stars
+  - [Personally Active Work 🏋️](https://github.com/stars/chramostatm/lists/personally-active-work)   
   - [Hackathons 🐱‍👤](https://github.com/stars/chramostatm/lists/hackathons)
-  - [Personally Active Work 🏋️](https://github.com/stars/chramostatm/lists/personally-active-work)
-  - [Schoolwork 🤓](https://github.com/stars/chramostatm/lists/schoolwork)
-  - [Teaching 👨‍🏫](https://github.com/stars/chramostatm/lists/teaching)
-  - [Good DevOps tools 😇](https://github.com/stars/chramostatm/lists/good-devops-tools)
+  - [Learning/Teaching 👨‍🏫](https://github.com/stars/chramostatm/lists/learning-teaching)
   - [Interesting 🤔](https://github.com/stars/chramostatm/lists/interesting)
-  - [Books 📚](./RecommendedBooks.md)
-  - [Content Creators📺](./RecommendedContentCreators.md)
+
+- [Books 📚](./RecommendedBooks.md)
+- [Content Creators📺](./RecommendedContentCreators.md)
 
 
 ### (Optional)
 Consider Sponsoring my [GitHub](https://github.com/sponsors/chramostatm) or 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G016L5TE)
+
 #### [Inception](https://github.com/chramostatm)
 
 
