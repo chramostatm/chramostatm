@@ -16,7 +16,7 @@
 - [Books 📚](./RecommendedBooks.md)
 - [Content Creators📺](./RecommendedContentCreators.md)
 
-
+### [License](./License)
 ### (Optional)
 Consider Sponsoring my [GitHub](https://github.com/sponsors/chramostatm) or 
 
