@@ -5,14 +5,9 @@
 - 💞️ I’m willing to collaborate on: Anything and everything!
   - ☕️ GitHub not your [cuppa tea](https://www.youtube.com/watch?v=rt1nlqJP2Ls)? Just let me know.
 - 📫 reach me through [Word of Mouth](https://www.youtube.com/watch?v=E_IQeoy94OI)
-### 📃 List of Lists
+### 📃 Lists
 
-- Stars
-  - [Personally Active Work 🏋️](https://github.com/stars/chramostatm/lists/personally-active-work)   
-  - [Hackathons 🐱‍👤](https://github.com/stars/chramostatm/lists/hackathons)
-  - [Learning/Teaching 👨‍🏫](https://github.com/stars/chramostatm/lists/learning-teaching)
-  - [Interesting 🤔](https://github.com/stars/chramostatm/lists/interesting)
-
+- [Stars ⭐](https://github.com/chramostatm?tab=stars)
 - [Books 📚](./RecommendedBooks.md)
 - [Content Creators📺](./RecommendedContentCreators.md)
 
