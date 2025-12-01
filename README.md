@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Secure Web Dev
 - 💞️ I’m willing to collaborate on: Anything and everything!
   - ☕️ GitHub not your [cuppa tea](https://www.youtube.com/watch?v=rt1nlqJP2Ls)? Just let me know.
-- 📫 reach me through [Word of Mouth](https://www.youtube.com/watch?v=E_IQeoy94OI)
+- 📫 reach me via [email](mailto:trenton@chramosta.net)
 ### 📃 Lists
 
 - [Stars ⭐](https://github.com/chramostatm?tab=stars)
