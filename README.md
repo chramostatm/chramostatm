@@ -11,7 +11,7 @@
 - [Books 📚](./RecommendedBooks.md)
 - [Content Creators📺](./RecommendedContentCreators.md)
 
-### [License](./License.md)
+### [License](./LICENSE)
 
   <!-- - []() -->
 
