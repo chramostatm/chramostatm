@@ -18,11 +18,6 @@
 
 ### [License](./License.md)
 
-
-Consider Sponsoring my [GitHub](https://github.com/sponsors/chramostatm) or 
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G016L5TE)
-
   <!-- - []() -->
 
 <!---
