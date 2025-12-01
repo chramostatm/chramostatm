@@ -11,7 +11,8 @@
 - [Books 📚](./RecommendedBooks.md)
 - [Content Creators📺](./RecommendedContentCreators.md)
 
-### [License](./LICENSE)
+### [License](https://github.com/chramostatm/chramostatm/tree/main?tab=License-1-ov-file)
+
 
   <!-- - []() -->
 
