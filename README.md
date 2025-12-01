@@ -8,6 +8,7 @@
 ### 📃 Lists
 
 - [Stars ⭐](https://github.com/chramostatm?tab=stars)
+- [Helpful Links 🔗](./HelpfulLinks.md)
 - [Books 📚](./RecommendedBooks.md)
 - [Content Creators📺](./RecommendedContentCreators.md)
 
