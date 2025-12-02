@@ -6,6 +6,8 @@
 - 💞️ I’m willing to collaborate on: Anything and everything!
   - ☕️ GitHub not your [cuppa tea](https://www.youtube.com/watch?v=rt1nlqJP2Ls)? Just let me know.
 ### Contact Me
+![trenton@chramosta.net](./chramostaNetEmail.png)
+### QR Codes
 ![QR Codes](./chramostaNetQR.png)
 ### 📃 Lists
 
