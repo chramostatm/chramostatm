@@ -1,9 +1,10 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/chramostatm)
 ### Introduction
-- 👋 Hi, I’m @chramostatm
+- 👋 Hi, I’m @chramostatm (aka. Mr. C#)
 - Organizations
   - - [Fellowship of the Ping](https://fotp.it.com)
     - [RokRam IT](https://rokram.org)
+    - [Mr C# Instructing](https://github.com/Mr-CSharp-Instructor-Stuff)
 - 👀 I’m interested in: Human Centric Developement, Mathematics, and open-source Systems!
 - 🌱 I’m currently learning: Secure Web Dev
 - 💞️ I’m willing to collaborate on: Anything and everything!
