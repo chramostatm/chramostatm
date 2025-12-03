@@ -1,6 +1,9 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/chramostatm)
 ### Introduction
 - 👋 Hi, I’m @chramostatm
+- Organizations
+  - - [Fellowship of the Ping](https://fotp.it.com)
+    - [RokRam IT](https://rokram.org)
 - 👀 I’m interested in: Human Centric Developement, Mathematics, and open-source Systems!
 - 🌱 I’m currently learning: Secure Web Dev
 - 💞️ I’m willing to collaborate on: Anything and everything!
@@ -13,6 +16,7 @@
 
 - [Stars ⭐](https://github.com/chramostatm?tab=stars)
 - [Helpful Links 🔗](./HelpfulLinks.md)
+
 - [Books 📚](./RecommendedBooks.md)
 - [Content Creators📺](./RecommendedContentCreators.md)
 
