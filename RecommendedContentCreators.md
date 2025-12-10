@@ -16,6 +16,9 @@ __*Disclaimer: This is curated solely on their technical/craft perspectives. My 
 ### Cooking
 - Internet Shaquille
     - Description: Practical lessons in cooking.
+### Music
+- The Kinks
+- The Dreadnoughts
 ### Interior Design
 - Caroline Winkler
     - Description: interior designer (and more) giving practical thoughts on interior design (and more).
